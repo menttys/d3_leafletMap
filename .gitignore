@@ -1,0 +1,10 @@
+# pubilc files
+public/
+
+# Sd_store
+.DS_Store
+*.DS_Store
+
+# Dependency directories
+node_modules/
+

@@ -55,7 +55,7 @@ function Maps() {
   const [lat, setLat] = useState(51.5262);
   const [lng, setLng] = useState(-0.0851);
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: "AIzaSyDQGuKtZtT_x_LM1Khd-FF0kKd5ekatAmw"
+    googleMapsApiKey: ""
   });
 
   console.log("Latitude and longitude:", {
